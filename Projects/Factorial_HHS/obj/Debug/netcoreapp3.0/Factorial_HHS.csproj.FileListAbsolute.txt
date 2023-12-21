@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\bin\Debug\netcoreapp3.0\Factorial_HHS.exe
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\bin\Debug\netcoreapp3.0\Factorial_HHS.deps.json
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\bin\Debug\netcoreapp3.0\Factorial_HHS.runtimeconfig.json
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\bin\Debug\netcoreapp3.0\Factorial_HHS.runtimeconfig.dev.json
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\bin\Debug\netcoreapp3.0\Factorial_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\bin\Debug\netcoreapp3.0\Factorial_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\obj\Debug\netcoreapp3.0\Factorial_HHS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\obj\Debug\netcoreapp3.0\Factorial_HHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\obj\Debug\netcoreapp3.0\Factorial_HHS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\obj\Debug\netcoreapp3.0\Factorial_HHS.AssemblyInfo.cs
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\obj\Debug\netcoreapp3.0\Factorial_HHS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\obj\Debug\netcoreapp3.0\Factorial_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\obj\Debug\netcoreapp3.0\Factorial_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week3\Factorial_HHS\obj\Debug\netcoreapp3.0\Factorial_HHS.genruntimeconfig.cache
