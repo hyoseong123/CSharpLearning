@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Fibonazzi_HHS/1.0.0": {
+        "runtime": {
+          "Fibonazzi_HHS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fibonazzi_HHS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
