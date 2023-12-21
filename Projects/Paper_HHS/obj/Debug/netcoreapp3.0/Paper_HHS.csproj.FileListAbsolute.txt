@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\bin\Debug\netcoreapp3.0\Paper_HHS.exe
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\bin\Debug\netcoreapp3.0\Paper_HHS.deps.json
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\bin\Debug\netcoreapp3.0\Paper_HHS.runtimeconfig.json
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\bin\Debug\netcoreapp3.0\Paper_HHS.runtimeconfig.dev.json
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\bin\Debug\netcoreapp3.0\Paper_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\bin\Debug\netcoreapp3.0\Paper_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\obj\Debug\netcoreapp3.0\Paper_HHS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\obj\Debug\netcoreapp3.0\Paper_HHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\obj\Debug\netcoreapp3.0\Paper_HHS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\obj\Debug\netcoreapp3.0\Paper_HHS.AssemblyInfo.cs
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\obj\Debug\netcoreapp3.0\Paper_HHS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\obj\Debug\netcoreapp3.0\Paper_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\obj\Debug\netcoreapp3.0\Paper_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week3\Paper_HHS\obj\Debug\netcoreapp3.0\Paper_HHS.genruntimeconfig.cache
