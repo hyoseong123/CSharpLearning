@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balloon_HHS", "Balloon_HHS.csproj", "{6A3AB216-E146-4C57-B342-45F30EA8E665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3AB216-E146-4C57-B342-45F30EA8E665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3AB216-E146-4C57-B342-45F30EA8E665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3AB216-E146-4C57-B342-45F30EA8E665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3AB216-E146-4C57-B342-45F30EA8E665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {187BBA74-4FFD-404A-8F69-9BCA3B25B3A1}
+	EndGlobalSection
+EndGlobal
