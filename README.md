@@ -1,2 +1,2 @@
-# Welcome To STR_Repository
-- Learning CSharp!# STR_LearningCSharp
+# Welcome To STR_LearningCSharp
+- Learning CSharp!
