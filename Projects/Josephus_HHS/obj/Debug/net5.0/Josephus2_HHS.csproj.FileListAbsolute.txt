@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\bin\Debug\net5.0\Josephus2_HHS.exe
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\bin\Debug\net5.0\Josephus2_HHS.deps.json
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\bin\Debug\net5.0\Josephus2_HHS.runtimeconfig.json
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\bin\Debug\net5.0\Josephus2_HHS.runtimeconfig.dev.json
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\bin\Debug\net5.0\Josephus2_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\bin\Debug\net5.0\ref\Josephus2_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\bin\Debug\net5.0\Josephus2_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\Josephus2_HHS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\Josephus2_HHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\Josephus2_HHS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\Josephus2_HHS.AssemblyInfo.cs
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\Josephus2_HHS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\Josephus2_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\ref\Josephus2_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\Josephus2_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week4\Josephus2_HHS\obj\Debug\net5.0\Josephus2_HHS.genruntimeconfig.cache
