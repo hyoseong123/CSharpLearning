@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\obj\Debug\netcoreapp3.0\Rectangle_HHS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\obj\Debug\netcoreapp3.0\Rectangle_HHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\obj\Debug\netcoreapp3.0\Rectangle_HHS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\obj\Debug\netcoreapp3.0\Rectangle_HHS.AssemblyInfo.cs
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\obj\Debug\netcoreapp3.0\Rectangle_HHS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\bin\Debug\netcoreapp3.0\Rectangle_HHS.exe
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\bin\Debug\netcoreapp3.0\Rectangle_HHS.deps.json
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\bin\Debug\netcoreapp3.0\Rectangle_HHS.runtimeconfig.json
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\bin\Debug\netcoreapp3.0\Rectangle_HHS.runtimeconfig.dev.json
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\bin\Debug\netcoreapp3.0\Rectangle_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\bin\Debug\netcoreapp3.0\Rectangle_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\obj\Debug\netcoreapp3.0\Rectangle_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\obj\Debug\netcoreapp3.0\Rectangle_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week1\황효성\Rectangle_HHS\obj\Debug\netcoreapp3.0\Rectangle_HHS.genruntimeconfig.cache
