@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NewCalculator_HHS/1.0.0": {
+        "runtime": {
+          "NewCalculator_HHS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewCalculator_HHS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
