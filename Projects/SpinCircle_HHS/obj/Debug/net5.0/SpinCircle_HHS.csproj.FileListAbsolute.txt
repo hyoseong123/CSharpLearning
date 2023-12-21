@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\bin\Debug\net5.0\SpinCircle_HHS.exe
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\bin\Debug\net5.0\SpinCircle_HHS.deps.json
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\bin\Debug\net5.0\SpinCircle_HHS.runtimeconfig.json
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\bin\Debug\net5.0\SpinCircle_HHS.runtimeconfig.dev.json
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\bin\Debug\net5.0\SpinCircle_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\bin\Debug\net5.0\ref\SpinCircle_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\bin\Debug\net5.0\SpinCircle_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\SpinCircle_HHS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\SpinCircle_HHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\SpinCircle_HHS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\SpinCircle_HHS.AssemblyInfo.cs
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\SpinCircle_HHS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\SpinCircle_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\ref\SpinCircle_HHS.dll
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\SpinCircle_HHS.pdb
+C:\Users\user\Desktop\황효성\과제\Week4\SpinCircle_HHS\obj\Debug\net5.0\SpinCircle_HHS.genruntimeconfig.cache
