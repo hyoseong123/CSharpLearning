@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BookStoreWPF_HHS/1.0.0": {
+        "runtime": {
+          "BookStoreWPF_HHS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookStoreWPF_HHS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

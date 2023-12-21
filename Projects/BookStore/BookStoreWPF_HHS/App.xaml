@@ -1,0 +1,10 @@
+﻿<Application x:Class="BookStoreWPF_HHS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BookStoreWPF_HHS"
+             xmlns:ViewModels="clr-namespace:BookStoreWPF_HHS.ViewModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

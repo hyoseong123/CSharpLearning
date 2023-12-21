@@ -1,0 +1,36 @@
+﻿<Window x:Class="BookStoreWPF_HHS.DeleteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookStoreWPF_HHS"
+        xmlns:ViewModels="clr-namespace:BookStoreWPF_HHS.ViewModels"
+        mc:Ignorable="d"
+        Title="DeleteWindow" Height="300" Width="400">
+
+    <Grid>
+        <Label
+            Content="삭제하시겠습니까?"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center"/>
+        
+        <Button 
+            x:Name="AcceptButton"
+            Content="확인" 
+            Margin="105,214,165,20"
+            Click="AcceptButtonClick"/>
+        
+        <Button 
+            x:Name="CloseButton"
+            Content="취소" 
+            Margin="260,214,10,20"
+            Click="CloseButtonClick"/>
+        
+        <Label 
+            x:Name="InfoBox" 
+            HorizontalAlignment="Center"
+            Margin="0,93,0,0" 
+            VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
