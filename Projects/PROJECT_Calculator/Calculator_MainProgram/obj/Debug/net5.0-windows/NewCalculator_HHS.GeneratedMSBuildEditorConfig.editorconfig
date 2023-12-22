@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = NewCalculator_HHS
-build_property.ProjectDir = C:\Users\user\Desktop\황효성\과제\Calculator\Calculator_MainProgram\
+build_property.ProjectDir = C:\Users\user\Desktop\STR황효성\Project\Week6_Calculator\Calculator_MainProgram\

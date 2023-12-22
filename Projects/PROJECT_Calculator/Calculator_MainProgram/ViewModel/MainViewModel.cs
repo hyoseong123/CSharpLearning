@@ -590,7 +590,21 @@ namespace NewCalculator_HHS.ViewModel
 
                         if (ExpressionsList[i] == "^")
                         {
-                            result = decimal.Parse(Math.Pow(double.Parse(ExpressionsList[i - 1]), double.Parse(ExpressionsList[i + 1])).ToString());
+                            try
+                            {
+                                result = decimal.Parse(Math.Pow(double.Parse(ExpressionsList[i - 1]), double.Parse(ExpressionsList[i + 1])).ToString());
+                            }
+                            catch (FormatException)
+                            {
+                                IsOverflow = true;
+                            }
+
+                            if (IsOverflow)
+                            {
+                                Clear();
+                                MainLabelContent = "오버플로";
+                                return;
+                            }
 
                             ExpressionsList.RemoveAt(i + 1);
                             ExpressionsList.RemoveAt(i);
@@ -786,7 +800,21 @@ namespace NewCalculator_HHS.ViewModel
 
                 if (ExpressionsList[i] == "^")
                 {
-                    result = decimal.Parse(Math.Pow(double.Parse(ExpressionsList[i - 1]), double.Parse(ExpressionsList[i + 1])).ToString());
+                    try
+                    {
+                        result = decimal.Parse(Math.Pow(double.Parse(ExpressionsList[i - 1]), double.Parse(ExpressionsList[i + 1])).ToString());
+                    }
+                    catch (FormatException)
+                    {
+                        IsOverflow = true;
+                    }
+
+                    if (IsOverflow)
+                    {
+                        Clear();
+                        MainLabelContent = "오버플로";
+                        return;
+                    }
 
                     ExpressionsList.RemoveAt(i + 1);
                     ExpressionsList.RemoveAt(i);

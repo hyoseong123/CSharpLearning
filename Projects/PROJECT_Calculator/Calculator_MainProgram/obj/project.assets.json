@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\황효성\\과제\\Calculator\\Calculator_MainProgram\\NewCalculator_HHS.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\STR황효성\\Project\\Week6_Calculator\\Calculator_MainProgram\\NewCalculator_HHS.csproj",
       "projectName": "NewCalculator_HHS",
-      "projectPath": "C:\\Users\\user\\Desktop\\황효성\\과제\\Calculator\\Calculator_MainProgram\\NewCalculator_HHS.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\STR황효성\\Project\\Week6_Calculator\\Calculator_MainProgram\\NewCalculator_HHS.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\황효성\\과제\\Calculator\\Calculator_MainProgram\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\STR황효성\\Project\\Week6_Calculator\\Calculator_MainProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
