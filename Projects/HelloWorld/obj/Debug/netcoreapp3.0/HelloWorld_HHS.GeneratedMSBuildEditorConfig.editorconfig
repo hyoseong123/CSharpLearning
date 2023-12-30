@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = HelloWorld_HHS
-build_property.ProjectDir = C:\Users\user\Desktop\황효성\과제\Week1\황효성\HelloWorld_HHS\
+build_property.ProjectDir = C:\Users\hyose\Desktop\CSharpLearning\Projects\HelloWorld\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

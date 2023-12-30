@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BJPpLGM4L4ZtbdSQF3Y3UhHEpV0tAFFaJi+hCd0FfgaMckG882RCD0PdLYIHlyCLqSnhqsTskzYqfAY8rv2Ygw==",
+  "dgSpecHash": "bxyUqgX6gHFv2UiSRphJD6AwXIUOwOFdFlWBY45l86AKUxZ+WI0pS4NTCdxyqLtlPcFj+aOzaAFi/p5heswr9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\황효성\\과제\\Week1\\황효성\\HelloWorld_HHS\\HelloWorld_HHS.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hyose\\Desktop\\CSharpLearning\\Projects\\HelloWorld\\HelloWorld_HHS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyose\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\hyose\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\hyose\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\hyose\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
